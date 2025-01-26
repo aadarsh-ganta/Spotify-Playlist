@@ -7,4 +7,4 @@ Key features:
 • Ensures songs meet playlist-specific genre composition and capacity constraints
 • Provides users with the option to accept or reject songs based on recommendations
 • Simulates and visualizes the decision-making process for playlist assignments
-• Implements several data structures, encapsulation, interfaces, and file I/O to manage the flow of data and interactions between components
+• Implements several data structures, encapsulation, interfaces, and file I/O to manage the flow of data and interactions between component

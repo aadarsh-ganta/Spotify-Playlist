@@ -1,6 +1,6 @@
 # Spotify-Playlist-Sorter
 
-Developed a Java program that uses an algorithm to determines whether a song should be added to one of three tailored playlists in Spotify based on user preferences and genre-specific criteria. The program processes a list of songs, checking each song's composition (pop, rock, country) and matching it to the appropriate playlist or rejecting it if the requirements are unmet. 
+Developed a Java program that uses an algorithm to determine whether a song should be added to one of three tailored playlists in Spotify based on user preferences and genre-specific criteria. The program processes a list of songs, checking each song's composition (pop, rock, country) and matching it to the appropriate playlist or rejecting it if the requirements are unmet. 
 
 Key features:
 

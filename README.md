@@ -10,4 +10,6 @@ Key Features:
 
 • Simulates the decision-making process for playlist assignments
 
-• Implements several data structures, encapsulation, interfaces, and file I/O to manage the flow of data and interactions between component
+• Implements several data structures, encapsulation, interfaces, and file I/O to manage the flow of data and interactions between components
+
+
